@@ -15,6 +15,7 @@ This repository contains my Digital Literacy Portfolio created as part of the CS
 
 The project is divided into five tasks, each corresponding to a module of the course.
 
+
 ## Task Summary
 
 ### Task 1 — Digital Literacy Infographic
@@ -32,12 +33,14 @@ Drafted professional emails for academic and internship purposes and created a S
 ### Task 5 — Cybercrime Awareness
 Developed a case study on phishing attacks and prepared a prevention checklist for students.
 
+
 ## Useful Links
 
 - Infographic Tool: https://www.canva.com  
 - Coding Platform: https://www.hackerrank.com  
 - Collaboration Tool: https://forms.google.com  
 - Cyber Crime Portal: https://cybercrime.gov.in  
+
 
 ## Repository Structure
 
