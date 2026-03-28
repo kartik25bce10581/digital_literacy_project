@@ -38,7 +38,7 @@ Developed a case study on phishing attacks and prepared a prevention checklist f
 
 - Infographic Tool: https://www.canva.com  
 - Coding Platform: https://www.hackerrank.com  
-- Collaboration Tool: https://forms.google.com  
+- Collaboration Tool: https://docs.google.com/forms/d/e/1FAIpQLSe7_SjJMjSsKOspuMNwhKq8G-YI4wEjkRrH_CIAKbalTOGIqA/viewform?usp=sharing&ouid=105428725953311809360
 - Cyber Crime Portal: https://cybercrime.gov.in  
 
 
