@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-This repository contains my Digital Literacy Portfolio created as part of the CSE0001 course. As a Student Digital Ambassador, the goal of this project was to develop resources that help students understand responsible digital behavior, professional online presence, effective communication, collaboration tools, and cybersecurity awareness.
+This repository contains my Digital Literacy Portfolio created as part of the CSE0001 course. As a Student Digital Ambassador, the goal of this project was to develop resources that help students understand responsible digital behaviour, professional online presence, effective communication, collaboration tools, and cybersecurity awareness.
 
 The project is divided into five tasks, each corresponding to a module of the course.
 
